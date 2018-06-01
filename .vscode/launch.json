@@ -4,7 +4,7 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "EVO1",
+            "name": "local server",
             "server": "http://localhost",
             "serverInstance": "NAV2018_CU5_19394_EVO1",
             "authentication": "Windows",
